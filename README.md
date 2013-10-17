@@ -41,7 +41,7 @@ común divisor. Haciendo uso del depurador de ruby detecte el error en el códig
 
     Para invocar al depurador, se ha de ejecutar: `ruby -rdebug gcd.rb`
     Una vez dentro de mismo:
-  * Para pedir ayuda el comando es:
+  * Para pedir ayuda el comando es:n
 
              (rdb:1) help
   * Para listar el programa
